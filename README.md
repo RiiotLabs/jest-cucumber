@@ -1,3 +1,10 @@
+# THIS IS A FORK
+
+This is probably not the package you were looking for.
+
+This is a (temporary) fork of the [upstream project](https://github.com/bencompton/jest-cucumber).  
+This repository is not actively maintained.
+
 # Jest Cucumber
 
 Execute Gherkin scenarios in Jest
