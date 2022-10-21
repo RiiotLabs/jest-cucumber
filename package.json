@@ -1,5 +1,5 @@
 {
-  "name": "@mechanicalrock/jest-cucumber",
+  "name": "jest-cucumber",
   "version": "3.1.0",
   "description": "Execute Gherkin scenarios in Jest",
   "main": "dist/src/index.js",
