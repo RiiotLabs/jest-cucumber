@@ -6,6 +6,7 @@
   "typings": "dist/src/index.d.ts",
   "scripts": {
     "build": "tsc",
+    "postinstall": "tsc",
     "jest": "jest --verbose",
     "test": "npm run build & npm run lint & jest --color",
     "update-snapshots": "jest --updateSnapshot",
